@@ -8,14 +8,21 @@ date: '2022-02-10'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Github IO pages
+
+- [https://wolski.github.io/prolfqua/](https://wolski.github.io/prolfqua/)
+- [https://wolski.github.io/prolfquabenchmark/](https://wolski.github.io/prolfquabenchmark/)
+- [https://protviz.github.io/prora/](https://wolski.github.io/prora/)
+- [https://protviz.github.io/prozor/](https://wolski.github.io/prozor/)
+
+
 # Github and Gitlab Repositories
 
-- [prolfqua - proteomics not only label free quantification](https://github.com/wolski/prolfqua)
+- [prolfqua - proteomics (not only) label free quantification](https://github.com/wolski/prolfqua)
 - [prolfquabenchmark - benchmarking methos in proflqua and other packages](https://github.com/wolski/prolfquabenchmark)
 - [prolfquadata - benchmark data for prolfqua](https://gitlab.bfabric.org/wolski/prolfquadata)
 - [prolfquapp - application running at the FGCZ based on prolfqua](https://gitlab.bfabric.org/wolski/prolfquapp)
 - [prozor - various](https://github.com/protviz/prozor)
 - [prora - prora and gsea at the FGCZ](https://github.com/protviz/prora)
-
 
 
