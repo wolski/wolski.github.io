@@ -10,13 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Github and Gitlab Repositories
 
-- [prolfqua](https://github.com/wolski/prolfqua)
-- [prolfquabenchmark](https://github.com/wolski/prolfquabenchmark)
-- [prolfquadata](https://gitlab.bfabric.org/wolski/prolfquadata)
-- [prolfquapp](https://gitlab.bfabric.org/wolski/prolfquapp)
-
-- [prozor](https://github.com/protviz/prozor)
-- [prora](https://github.com/protviz/prora)
+- [prolfqua - proteomics not only label free quantification](https://github.com/wolski/prolfqua)
+- [prolfquabenchmark - benchmarking methos in proflqua and other packages](https://github.com/wolski/prolfquabenchmark)
+- [prolfquadata - benchmark data for prolfqua](https://gitlab.bfabric.org/wolski/prolfquadata)
+- [prolfquapp - application running at the FGCZ based on prolfqua](https://gitlab.bfabric.org/wolski/prolfquapp)
+- [prozor - various](https://github.com/protviz/prozor)
+- [prora - prora and gsea at the FGCZ](https://github.com/protviz/prora)
 
 
 
