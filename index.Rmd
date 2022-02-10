@@ -1,0 +1,22 @@
+---
+title: "wolski.github.io"
+output: html_document
+date: '2022-02-10'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Github and Gitlab Repositories
+
+- [prolfqua](https://github.com/wolski/prolfqua)
+- [prolfquabenchmark](https://github.com/wolski/prolfquabenchmark)
+- [prolfquadata](https://gitlab.bfabric.org/wolski/prolfquadata)
+- [prolfquapp](https://gitlab.bfabric.org/wolski/prolfquapp)
+
+- [prozor](https://github.com/protviz/prozor)
+- [prora](https://github.com/protviz/prora)
+
+
+
