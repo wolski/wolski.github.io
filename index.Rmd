@@ -8,13 +8,17 @@ date: '2022-02-10'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Github IO pages
 
-- [https://fgcz.github.io/prolfqua/](https://wolski.github.io/prolfqua/)
-- [https://wolski.github.io/prolfquabenchmark/](https://wolski.github.io/prolfquabenchmark/)
-- [https://protviz.github.io/prora/](https://wolski.github.io/prora/)
-- [https://protviz.github.io/prozor/](https://wolski.github.io/prozor/)
+- FGCZ https://fgcz.ch/the-center/people/wolski.html
+- ORCID https://orcid.org/0000-0002-6468-120X
 
+
+# Github IO pages for R-packages
+
+- [prolfqua](https://wolski.github.io/prolfqua/)
+- [prolfquabenchmark](https://wolski.github.io/prolfquabenchmark/)
+- [prora](https://protviz.github.io/prora/)
+- [prozor](https://protviz.github.io/prozor/)
 
 # Github and Gitlab Repositories
 
