@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Github IO pages
 
-- [https://wolski.github.io/prolfqua/](https://wolski.github.io/prolfqua/)
+- [https://fgcz.github.io/prolfqua/](https://wolski.github.io/prolfqua/)
 - [https://wolski.github.io/prolfquabenchmark/](https://wolski.github.io/prolfquabenchmark/)
 - [https://protviz.github.io/prora/](https://wolski.github.io/prora/)
 - [https://protviz.github.io/prozor/](https://wolski.github.io/prozor/)
