@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Github IO pages for R-packages
 
-- [prolfqua](https://wolski.github.io/prolfqua/)
+- [prolfqua](https://fgcz.github.io/prolfqua/)
 - [prolfquabenchmark](https://wolski.github.io/prolfquabenchmark/)
 - [prora](https://protviz.github.io/prora/)
 - [prozor](https://protviz.github.io/prozor/)
